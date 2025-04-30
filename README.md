@@ -15,7 +15,83 @@
 
    ---
 
-   ### 🤖👾 Linguagens e Tecnologias
+   ### 👾 Linguagens e Tecnologias      
+    
+<img
+align="left"
+alt="HTML"
+title="HTML"
+width="30px"
+style="padding-right:10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
+ />
+
+<img
+align="left"
+alt="CSS"
+title="CSS"
+width="30px"
+style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
           
-       <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-          
+
+<img
+align="left"
+alt="JAVASCRIPT"
+title="JAVASCRIPT"
+width="30px"
+style="padding-right:10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+ 
+<img
+align="left"
+alt="PYTHON"
+title="PYTHON"
+width="30px"
+style="padding-right:10px;"
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+
+<img
+align="left"
+alt="GIT"
+title="GIT"
+width="30px"
+style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />
+<img
+align="left"
+alt="GITHUB"
+title="GITHUB"
+width="30px"
+style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+
+<img
+align="left"
+alt="FIGMA"
+title="FIGMA"
+width="30px"
+style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+                
+<img
+align="left"
+alt="POWER BI"
+title="POWER BI"
+width="30px"
+style="padding-right:10px;"   src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<img
+align="left"
+alt="GitHub Stats"
+height="200"
+style="padding-right:10px;"
+src="https://github-readme-stats.vercel.app/api?username=Gabriel-Emanoel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+
+<img
+align="left"
+alt="GitHub Stats"
+height="200"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Emanoel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6"/>
